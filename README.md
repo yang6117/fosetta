@@ -7,3 +7,8 @@ phase 2 - figuring out fex-emu
 phase 3 - mush both phases 1 and 2 together. 
 
 phase 4 - learn, suffer, make mistakes, adapt, make it better, repeat
+
+notable projects/topics to note for upcoming future
+-fex-emu
+-android syscalls 
+-
